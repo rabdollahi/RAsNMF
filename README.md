@@ -6,7 +6,7 @@
   
   *10th International Conference on Computer and Knowledge Engineering (ICCKE2020)*
   
-  *https://iccke2020.um.ac.ir*
+  *<a href=https://iccke2020.um.ac.ir target="_blank">iccke2020.um.ac.ir</a>*
 
 <p align=center><img src="diag.svg" width="70%" height="70%"></p>
 
